@@ -8,7 +8,7 @@ I am not a professional so my code may not be concise however, if you have any a
 This was a tough one. I used and copied many youtube videos and articles to understand and implement new concepts like effectively using media queries and line gradients in CSS thus making this project the one with the longest CSS code. It took me approximately 12 hours.
 
 ## Links
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://competent-euler-be0262.netlify.app/)
 
 ## Resources
 These sources played major roles in helping me beautify my content
