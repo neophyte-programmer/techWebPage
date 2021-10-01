@@ -16,3 +16,6 @@ These sources played major roles in helping me beautify my content
 - Pictures: [Pexels](https://www.pexels.com/search/vr/)
 - More Pictures: [Undraw](https://undraw.co/search)
 - Emojis(Logo): [FontsAwesome](https://fontawesome.com/)
+
+## More Resources 
+I hosted my website using [Netlify](https://www.netlify.com/)
